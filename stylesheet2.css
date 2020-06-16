@@ -1,0 +1,27 @@
+#mainbody {
+    font-family: sans-serif;
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+#content {
+    padding: 10%;
+}
+
+
+.tolearn {
+    font-style: italic;
+    font-size: 150%;
+    margin-top: 10%;
+
+}
+
+#content-main {
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.shortlist {
+    color: teal;
+    text-decoration: none;
+}
